@@ -20,7 +20,7 @@ from .com_error import errorProcess
 api_endpoint = 'https://my.incapsula.com/api/'
 
 
-def addRule(
+def addIncapRule(
         site_id, rule_name, rule_filter, action="RULE_ACTION_ALERT", api_id=os.environ.get('API_ID'),
         api_key=os.environ.get('API_KEY')):
 
