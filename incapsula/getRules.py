@@ -4,13 +4,13 @@
 
 https://docs.incapsula.com/Content/API/sites-api.htm#List3
 
- site_id -- numerical site id to retrive
+ site_id -- numerical site id to retrieve
  page -- page to start on (Default: 0)
  page_size -- number of objects per page (Default: 100)
  include_ad_rules -- Delivery rule inclusion (Default: yes)
  include_incap_rules -- Security rule inclusion (Default: yes)
- api_id -- API ID to use (Default: enviroment variable)
- api_key -- API KEY to use (Default: enviroment variable)
+ api_id -- API ID to use (Default: environment variable)
+ api_key -- API KEY to use (Default: environment variable)
 """
 
 import os

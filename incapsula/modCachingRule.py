@@ -5,11 +5,11 @@
 Valid options are listed at:
 https://docs.incapsula.com/Content/API/sites-api.htm#Modify7
 
-Only partial functionality - more needs to be added. Comma seperated lists need to be strings, not pythonic lists.
+Only partial functionality - more needs to be added. Comma separated lists need to be strings, not pythonic lists.
 
- site_id -- numerical site id to retrive (Default: None)
- api_id -- API ID to use (Default: enviroment variable)
- api_key -- API KEY to use (Default: enviroment variable)
+ site_id -- numerical site id to retrieve (Default: None)
+ api_id -- API ID to use (Default: environment variable)
+ api_key -- API KEY to use (Default: environment variable)
 
 All options below are optional:
 

@@ -11,8 +11,8 @@ https://docs.incapsula.com/Content/API/accounts-api.htm#List2
  recursive -- determine if the function should loop through pagination\
  (Default: True)
  account_id -- account id to operate on (Default: None)
- api_id -- API ID to use (Default: enviroment variable)
- api_key -- API KEY to use (Default: enviroment variable)
+ api_id -- API ID to use (Default: environment variable)
+ api_key -- API KEY to use (Default: environment variable)
 """
 
 import os

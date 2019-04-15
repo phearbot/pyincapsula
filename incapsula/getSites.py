@@ -2,7 +2,7 @@
 
 """Gathers a list of all sites
 
-Returns all sites by default and itterates throught pagination.
+Returns all sites by default and iterates through pagination.
 Does not require any argument be default to return all sites.
 https://docs.incapsula.com/Content/API/sites-api.htm#List
 
@@ -12,8 +12,8 @@ https://docs.incapsula.com/Content/API/sites-api.htm#List
  page_size -- Number of objects per page (Default: 100)
  recursive -- determine if the function should loop through pagination\
  (Default: True)
- api_id -- API ID to use (Default: enviroment variable)
- api_key -- API KEY to use (Default: enviroment variable)
+ api_id -- API ID to use (Default: environment variable)
+ api_key -- API KEY to use (Default: environment variable)
 """
 
 import os

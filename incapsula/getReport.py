@@ -9,15 +9,15 @@ in order to be used.
 
  site_id -- Numerical ID of the site to gather statistics on
  time_range -- time range to gather, use custom to specify a start and end
- stats -- Statistics to gather, Comma seperated list
+ stats -- Statistics to gather, Comma separated list
  granularity -- milliseconds between intervals, ignored if None\
  (Default: None)(Must be int)
  start -- milliseconds since 1/1/1970 to start gathering at,\
  ignored if None (Default: None)(Must be int)
  end -- milliseconds since 1/1/1970 to stop gathering at,\
  ignored if None (Default: None)(Must be int)
- api_id -- API ID to use (Default: enviroment variable)
- api_key -- API KEY to use (Default: enviroment variable)
+ api_id -- API ID to use (Default: environment variable)
+ api_key -- API KEY to use (Default: environment variable)
 """
 
 import os

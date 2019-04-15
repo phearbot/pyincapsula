@@ -2,9 +2,9 @@
 
 """Validates if a site is fully-configured
 
- site_id -- numerical site id to retrive
- api_id -- API ID to use (Default: enviroment variable)
- api_key -- API KEY to use (Default: enviroment variable)
+ site_id -- numerical site id to retrieve
+ api_id -- API ID to use (Default: environment variable)
+ api_key -- API KEY to use (Default: environment variable)
  """
  
 import os

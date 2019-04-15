@@ -2,11 +2,11 @@
 
 """Modifies a sites ACL rules
 
- site_id -- numerical site id to retrive
+ site_id -- numerical site id to retrieve
  rule_id -- rule to change
  listed -- list things to send for the rule
- api_id -- API ID to use (Default: enviroment variable)
- api_key -- API KEY to use (Default: enviroment variable)
+ api_id -- API ID to use (Default: environment variable)
+ api_key -- API KEY to use (Default: environment variable)
 """
 
 import os

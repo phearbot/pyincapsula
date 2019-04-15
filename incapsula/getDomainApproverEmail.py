@@ -2,8 +2,8 @@
 """Returns the email(s) that can be used to verify an SSL for a site
 
  domain -- domain to request email info on
- api_id -- API ID to use (Default: enviroment variable)
- api_key -- API KEY to use (Default: enviroment variable)
+ api_id -- API ID to use (Default: environment variable)
+ api_key -- API KEY to use (Default: environment variable)
 """
 
 import os

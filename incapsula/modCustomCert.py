@@ -5,12 +5,12 @@
 Requires the Site_ID, location of the certificate file, location of the 
 Private Key file, and the passphrase if required
 
- site_id -- numerical site id to retrive
+ site_id -- numerical site id to retrieve
  certificate -- file location of the certificate to upload
  private_key -- file location of the private key for the certificate
  passphrase -- passphrase for the private key (Default: None)
- api_id -- API ID to use (Default: enviroment variable)
- api_key -- API KEY to use (Default: enviroment variable)
+ api_id -- API ID to use (Default: environment variable)
+ api_key -- API KEY to use (Default: environment variable)
 """
 
 import os

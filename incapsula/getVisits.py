@@ -19,17 +19,17 @@ in order to be used.
  page_size -- Number of objects per page (Default: 100)
  recursive -- determine if the function should loop through pagination\
  (Default: True)
- security -- Security rules to filter by, comma seperated single string\
+ security -- Security rules to filter by, comma separated single string\
  ignored if None (Default: None)
  country -- Filter visits by origin country ignored if None\
  (Default: None)
  ip -- Filter visits by origin IP ignored if None (Default: None)
- visit_id -- single string, comma seperated list of visits to display\
+ visit_id -- single string, comma separated list of visits to display\
  ignored if None (Default: None)
  list_live_visits -- bool to list active sessions or not\
  (Default: false)
- api_id -- API ID to use (Default: enviroment variable)
- api_key -- API KEY to use (Default: enviroment variable)
+ api_id -- API ID to use (Default: environment variable)
+ api_key -- API KEY to use (Default: environment variable)
 """
 
 import os
