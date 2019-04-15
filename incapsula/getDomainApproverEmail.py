@@ -24,7 +24,7 @@ def getDomainApproverEmail(
             'domain':domain
         }
         r = requests.post(url, data=payload)
-        r.rase_for_status()
+        r.raise_for_status()
         return r.text
     except AssertionError as error:
         return errorProcess(error, domain)
