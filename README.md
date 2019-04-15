@@ -10,7 +10,7 @@ Python modules:
 
 ## Setup & Authentication
 
-The module uses environment variables APP_ID and APP_KEY for authentication. Export those or set them for the process running the utility.
+The module uses environment variables API_ID and API_KEY for authentication. Export those or set them for the process running the utility.
 
 ## Errors
 
